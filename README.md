@@ -33,7 +33,13 @@ Paper- https://pmc.ncbi.nlm.nih.gov/articles/PMC11605694/
 - Visualized transcriptional changes following FOXP3 perturbation
 
 ---
+## Next Steps
 
+- Integrate protein interaction networks (e.g. STRING)
+- Compare multiple transcription factor perturbations
+- Use LLMs to generate mechanistic hypotheses from significant gene sets
+- Reconstruct causal pathways governing T-cell state transitions
+  
 ## Future Work
 
 This project is an initial step toward integrating perturbation experiments, regulatory DNA activity, and protein interaction networks to reconstruct the causal regulatory logic governing T-cell state transitions.
